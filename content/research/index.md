@@ -5,12 +5,19 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: Recent Research Highlights
+      subtitle: ''
+      text: 
+    design:
+      spacing:
+        padding: ['20px', '0', '0', '0']
+      
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
+      - title: 
         background:
           image:
             filename: coders.jpg
@@ -18,9 +25,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: 
         background:
           image:
             filename: contact.jpg
@@ -28,9 +33,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: 
         background:
           image:
             filename: welcome.jpg
@@ -38,23 +41,31 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: 600px
+      # is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
+      spacing:
+        padding: ['20px', '20px', '20px', '20px']
+  
+  - block: markdown
+    content:
+      title: Acoustic
+      subtitle: ''
+      text: |
+        <center><img src='test/welcome.jpg'></center> 
+        testing
+    design:
+      spacing:
+        padding: ['80px', '0', '20px', '0']
 
   - block: hero
     content:
-      title: Lab of Scalable and Sustainable Photonic Manufacturing
+      title:
       image:
         filename: welcome.jpg
       text: |
@@ -64,12 +75,19 @@ sections:
 
   - block: markdown
     content:
-      title: test
+      title: Optics
       subtitle: ''
       text: test <br/><img src='test/welcome.jpg'>
-    # design:
-      # columns: '1'
-      # spacing:
-      #   padding: ['20px', '0', '20px', '0']
-      # css_class: fullscreen
+    design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      
+  - block: markdown
+    content:
+      title: Acoustic
+      subtitle: ''
+      text: test <br/><img src='test/welcome.jpg'>
+    design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 ---
