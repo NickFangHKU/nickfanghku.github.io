@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Research
 date: 2022-10-24
 
 type: landing
@@ -51,4 +51,25 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
+  - block: hero
+    content:
+      title: Lab of Scalable and Sustainable Photonic Manufacturing
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+  - block: markdown
+    content:
+      title: test
+      subtitle: ''
+      text: test <br/><img src='test/welcome.jpg'>
+    # design:
+      # columns: '1'
+      # spacing:
+      #   padding: ['20px', '0', '20px', '0']
+      # css_class: fullscreen
 ---

@@ -1,45 +1,45 @@
 ---
 # Display name
-title: Nicholas X. Fang
+title: Jiaoyuan Lian
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jiaoyuan
+last_name: Lian
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - JiaoyuanLian
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: The University of Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Ab-initio Calculation (Density Functional Theory)
+- Atomistic Modeling
+- Light-Matter Interaction (Material Electromagnetic, Thermal Responses)
+- Quantum Hydrodynamic Theory
+- 2D Material Strongly-Correlated System
+- Wave Behaviors
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Mechanical Engineering
+      institution: The University of Hong Kong
+      year: 2027 (expected)
+    - course: B.S. in Mechanical Engineering
+      institution: Beijing Institute of Technology
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +48,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:heliosynl@connect.hku.hk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ht5Ifj4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/heliosynl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,8 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Grad Students
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

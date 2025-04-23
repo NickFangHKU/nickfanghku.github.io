@@ -1,15 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: Lab of Scalable and Sustainable Photonic Manufacturing
       image:
         filename: welcome.jpg
       text: |
@@ -33,7 +31,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: showcase
       columns: '1'
   
   - block: markdown
