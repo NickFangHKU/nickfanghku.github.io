@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Helios Y. Li
+title: Helios Yongnan Li
 
 # Full name (for SEO)
 first_name: Helios Yongnan
@@ -29,7 +29,7 @@ interests:
 - Atomistic Modeling
 - Light-Matter Interaction (Material Electromagnetic, Thermal Responses)
 - Quantum Hydrodynamic Theory
-- 2D Material Strongly-Correlated System
+- 2D Material Tight-Binding System
 - Wave Behaviors
 
 education:
