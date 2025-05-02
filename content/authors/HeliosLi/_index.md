@@ -49,8 +49,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:heliosynl@connect.hku.hk'
-  - icon: academia
-    icon_pack: ai
+  - icon: globe
+    icon_pack: fas
     link: https://heliosynl.github.io/
   - icon: google-scholar
     icon_pack: ai

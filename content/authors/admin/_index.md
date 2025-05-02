@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nicholas Xuanlai Fang
+title: Prof. Nicholas Fang
 
 # Full Name (for SEO)
 first_name: Nicholas Xuanlai
@@ -47,13 +47,13 @@ social:
     link: 'mailto:nicxfang@hku.hk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/nicholasfang10
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PcoqNjgAAAAJ&hl
-  - icon: cv
-    icon_pack: ai
-    link: files/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

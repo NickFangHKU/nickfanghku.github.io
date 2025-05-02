@@ -5,13 +5,26 @@ date: 2022-10-24
 type: landing
 
 sections:
-
   - block: markdown
     content:
-      title: Lab of Scalable and Sustainable Photonic Manufacturing @ HKU Mechanical Engineering
+      title: Under construction now
+    design:
+      spacing:
+        padding: ['20px', '60px', '20px', '60px']
+  
+  - block: markdown
+    content:
+      title: Lab of Scalable and Sustainable Photonic Manufacturing
       subtitle: "Professor Nicholas Fang's Research Group"
       text: |
-        The research efforts at Professor Fang’s group concentrate on focusing photon and sound into sub-wavelength scales. While the main efforts focus on new insights of design for advanced manufacturing of wave functional material and devices, his group also actively pursue the applications in the areas of energy conversion, communication, and biomedical imaging. His research also leads to over 16 patent applications on nano- and micro-fabrication, additive manufacturing, and imaging technologies with successful technology transfer to industry (e.g. Osram, BASF, Nissan) and startups.
+        Professor Fang is trained as an applied physicist and educator with focus on optical and acoustic materials. Built upon our unique and world-leading expertise in advanced wave functional materials, Professor Fang's new research team of sustainable nanophotonics at HKU will launch the following research efforts:
+        1. Can photonic manufacturing boost the sustainability and efficiency of catalytic conversion?
+        2. Can photonic manufacturing enhance the sustainability of networked devices and systems integrated with traditional fibers, yarns, and textiles?
+        3. Can 3D organ-on-chip tissue models by photonic manufacturing fully recapitulate the patient-specific evolution of age-related diseases?
+
+        Specialties: photonics, nanofabrication, advanced imaging technology
+        
+        We invite you to take a look at the publications to get a better idea of our previous research. Feel free to get in touch with Professor Fang to say hi or for more information.
     design:
       spacing:
         padding: ['20px', '40px', '20px', '40px']

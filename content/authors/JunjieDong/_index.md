@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junjie Dong
+title: Dr. Junjie Dong
 
 # Full name (for SEO)
 first_name: Junjie
@@ -22,24 +22,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include acoustic micro robotics.
 
 interests:
-- Ab-initio Calculation (Density Functional Theory)
-- Atomistic Modeling
-- Light-Matter Interaction (Material Electromagnetic, Thermal Responses)
-- Quantum Hydrodynamic Theory
-- 2D Material Strongly-Correlated System
-- Wave Behaviors
+- Acoustic micro robotics
+- low-intensity focused ultrasound
 
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
-      institution: The University of Hong Kong
-      year: 2027 (expected)
-    - course: B.S. in Mechanical Engineering
       institution: Beijing Institute of Technology
-      year: 2023
+    - course: Joint Ph.D. in Mechanical Engineering
+      institution: ETH Zurich
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,13 +42,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:heliosynl@connect.hku.hk'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=ht5Ifj4AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/heliosynl
+    link: 'mailto:jjdong@.hku.hk'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +59,4 @@ user_groups:
   - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dong Junjie's research focuses on acoustic micro-nano robot system design and intelligent control, covering ultrasound control technology, robot fault tolerance and robust control algorithms and biomedical applications. He is committed to optimizing the penetration and focusing performance of low-intensity focused ultrasound (LIFU) through acoustic metamaterials, combining simulation modeling with experimental verification, and promoting its application in the fields of neural control and non-invasive treatment.

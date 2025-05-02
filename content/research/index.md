@@ -54,6 +54,16 @@ sections:
   
   - block: markdown
     content:
+      title: 
+      subtitle: ''
+      text: |
+        The research efforts at Professor Fang’s group concentrate on focusing photon and sound into sub-wavelength scales. While the main efforts focus on new insights of design for advanced manufacturing of wave functional material and devices, his group also actively pursue the applications in the areas of energy conversion, communication, and biomedical imaging. His research also leads to over 16 patent applications on nano- and micro-fabrication, additive manufacturing, and imaging technologies with successful technology transfer to industry (e.g. Osram, BASF, Nissan) and startups.
+    design:
+      spacing:
+        padding: ['80px', '0', '20px', '0']
+  
+  - block: markdown
+    content:
       title: Acoustic
       subtitle: ''
       text: |
@@ -61,7 +71,7 @@ sections:
         testing
     design:
       spacing:
-        padding: ['80px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: hero
     content:
