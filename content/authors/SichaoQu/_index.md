@@ -2,10 +2,6 @@
 # Display name
 title: Dr. Sichao Qu
 
-# Full name (for SEO)
-first_name: Sichao
-last_name: Qu
-
 # Username (this should match the folder name)
 authors:
   - SichaoQu

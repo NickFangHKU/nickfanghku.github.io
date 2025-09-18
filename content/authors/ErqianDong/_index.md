@@ -1,10 +1,6 @@
 ---
 # Display name
-title: Erqian Dong
-
-# Full name (for SEO)
-first_name: Erqian
-last_name: Dong
+title: Dr. Erqian Dong
 
 # Username (this should match the folder name)
 authors:

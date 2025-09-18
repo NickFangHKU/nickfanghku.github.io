@@ -2,10 +2,6 @@
 # Display name
 title: Helios Yongnan Li
 
-# Full name (for SEO)
-first_name: Helios Yongnan
-last_name: Li
-
 # Username (this should match the folder name)
 authors:
   - HeliosLi
@@ -22,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I interest in low dimensional materials, atomic and electronic scale simulation, spectrometry and spectroscopy.
 
 interests:
 - Ab-initio Calculation (Density Functional Theory)
@@ -72,7 +68,3 @@ email: ''
 user_groups:
   - Graduate Students
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

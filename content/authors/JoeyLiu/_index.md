@@ -1,10 +1,6 @@
 ---
 # Display name
-title: Joey Liu
-
-# Full name (for SEO)
-first_name: Joey Zhouyuntong
-last_name: Liu
+title: Joey Zhouyuntong Liu
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:

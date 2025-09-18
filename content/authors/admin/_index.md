@@ -1,16 +1,12 @@
 ---
 # Display name
-title: Prof. Nicholas Fang
-
-# Full Name (for SEO)
-first_name: Nicholas Xuanlai
-last_name: Fang
+title: Prof. Nicholas Xuanlai Fang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Mechanical Engineering
+role: Chair Professor of Photonics Innovation, Department of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +14,15 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Metamaterials
+#   - Photonics
+#   - Acoustics
+#   - Materials
+#   - Soft Materials
+
 
 education:
   courses:
@@ -64,7 +63,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

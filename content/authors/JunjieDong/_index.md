@@ -2,10 +2,6 @@
 # Display name
 title: Dr. Junjie Dong
 
-# Full name (for SEO)
-first_name: Junjie
-last_name: Dong
-
 # Username (this should match the folder name)
 authors:
   - JunjieDong

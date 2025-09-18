@@ -1,10 +1,6 @@
 ---
 # Display name
-title: Joshua Zhang
-
-# Full name (for SEO)
-first_name: Joshua Weiwei
-last_name: Zhang
+title: Joshua Weiwei Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -22,14 +18,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include viscoelastic material, ultrasound-responsive material and wave behavior.
 
 interests:
-- Ab-initio Calculation (Density Functional Theory)
-- Atomistic Modeling
-- Light-Matter Interaction (Material Electromagnetic, Thermal Responses)
-- Quantum Hydrodynamic Theory
-- 2D Material Strongly-Correlated System
+- Ultrasound-responsive Hydrogel
+- High order scattering mode
+- Viscoelasticity identification
+- Nonlinear acoustic
 - Wave Behaviors
 
 education:
@@ -37,31 +32,23 @@ education:
     - course: Ph.D. in Mechanical Engineering
       institution: The University of Hong Kong
       year: 2027 (expected)
+    - course: M.S. in Mechanical Engineering
+      institution: Wuhan University of Technology
+      year: 2022
     - course: B.S. in Mechanical Engineering
-      institution: Beijing Institute of Technology
-      year: 2023
+      institution: Wuhan University of Technology
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:heliosynl@connect.hku.hk'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=ht5Ifj4AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/heliosynl
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    link: 'mailto:joshuaweiweizhang@connect.hku.hk'
+  
 email: ''
 
 # Organizational groups that you belong to (for People widget)
@@ -69,7 +56,3 @@ email: ''
 user_groups:
   - Graduate Students
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
