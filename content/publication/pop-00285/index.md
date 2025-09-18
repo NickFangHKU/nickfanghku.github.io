@@ -2,7 +2,7 @@
 title: Subwavelength nanolithography using surface plasmons
 authors:
 - W Srituravanich
-- N Fang
+- admin
 - C Sun
 - Q Luo
 - X Zhang

@@ -3,7 +3,7 @@ title: Tunable acoustic metamaterials
 authors:
 - S Babaee
 - N Viard
-- N Fang
+- admin
 - K Bertoldi
 date: '2015-01-01'
 publishDate: '2025-09-18T05:41:21.888234Z'

@@ -3,7 +3,7 @@ title: Process modeling of projection micro stereo lithography for three-dimensi
   MEMS
 authors:
 - C Sun
-- N Fang
+- admin
 - X Zhang
 date: '2001-01-01'
 publishDate: '2025-09-18T05:41:21.282890Z'

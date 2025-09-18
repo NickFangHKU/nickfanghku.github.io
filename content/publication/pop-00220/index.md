@@ -7,7 +7,7 @@ authors:
 - S Li
 - H Zhang
 - B Deng
-- NX Fang
+- admin
 - Y Habibi
 - SC Chen
 - ' ...'

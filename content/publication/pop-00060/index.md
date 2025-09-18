@@ -6,7 +6,7 @@ authors:
 - E Ponizovskaya
 - Y Liu
 - Z Yu
-- N Fang
+- admin
 - YR Shen
 - ' ...'
 date: '2007-01-01'

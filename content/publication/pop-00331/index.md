@@ -2,7 +2,7 @@
 title: Instability and Wave Propagation in Structured 3D Composites
 authors:
 - N Kaynia
-- NX Fang
+- admin
 - MC Boyce
 date: '2014-01-01'
 publishDate: '2025-09-18T05:41:21.918368Z'

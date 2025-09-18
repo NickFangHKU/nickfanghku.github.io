@@ -2,8 +2,8 @@
 title: A Meta Matching Layer to Image Behind Calcified Plaques
 authors:
 - A Ghanbarzadeh-Dagheyan
-- E Dong
-- NX Fang
+- ErqianDong
+- admin
 date: '2024-01-01'
 publishDate: '2025-09-18T05:41:21.731936Z'
 publication_types:

@@ -3,7 +3,7 @@ title: Complex polarizability of an isolated subwavelength plasmonic hole in a t
   metal film
 authors:
 - J Xu
-- NX Fang
+- admin
 date: '2013-01-01'
 publishDate: '2025-09-18T05:41:21.629163Z'
 publication_types:

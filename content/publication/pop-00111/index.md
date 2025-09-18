@@ -3,7 +3,7 @@ title: Effective dielectric constants and spectral density analysis of plasmonic
 authors:
 - JY Lu
 - A Raza
-- NX Fang
+- admin
 - G Chen
 - TJ Zhang
 date: '2016-01-01'

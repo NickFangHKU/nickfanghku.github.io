@@ -4,7 +4,7 @@ title: A study on the spectral characteristics of surface enhanced Raman scatter
   2D nanostructures
 authors:
 - KH Hsu
-- N Fang
+- admin
 - K Fung
 date: '2015-01-01'
 publishDate: '2025-09-18T05:41:21.186231Z'

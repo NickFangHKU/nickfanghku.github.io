@@ -3,13 +3,13 @@ title: Achieving Peta-Ohm Resistance for Semi-Insulating 4H-SiC Devices by Atomi
   Layer Deposition
 authors:
 - Y Xi
-- HY Li
+- HeliosLi
 - G Li
 - Q Su
 - K Mao
 - B Xu
 - Y Hao
-- NX Fang
+- admin
 - Y Cui
 date: '2024-01-01'
 publishDate: '2025-09-18T05:41:21.743871Z'

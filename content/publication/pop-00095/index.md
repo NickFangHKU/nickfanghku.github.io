@@ -3,7 +3,7 @@ title: Micro 3D printing using a digital projector and its application in the st
   of soft materials mechanics
 authors:
 - H Lee
-- NX Fang
+- admin
 date: '2012-01-01'
 publishDate: '2025-09-18T05:41:20.528880Z'
 publication_types:

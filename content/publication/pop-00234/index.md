@@ -3,7 +3,7 @@ title: Infrared spectroscopy and ellipsometry of magnetic metamaterials
 authors:
 - WJ Padilla
 - TJ Yen
-- N Fang
+- admin
 - DC Vier
 - DR Smith
 - JB Pendry

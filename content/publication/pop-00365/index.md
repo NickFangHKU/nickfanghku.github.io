@@ -3,7 +3,7 @@ title: PHYS 446-Waveguide lens design based on metal-dielectric-metal multilayer
 authors:
 - H Ma
 - S Zhang
-- N Fang
+- admin
 date: '2008-01-01'
 publishDate: '2025-09-18T05:41:22.101546Z'
 publication_types:

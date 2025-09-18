@@ -4,7 +4,7 @@ authors:
 - Y Liu
 - L Fan
 - YE Lee
-- NX Fang
+- admin
 - SG Johnson
 - OD Miller
 date: '2018-01-01'

@@ -3,7 +3,7 @@ title: Soft‐Layered Composites with Wrinkling‐Activated Multi‐Linear Elast
   Stress Mitigation, and Enhanced Strain Energy Storage
 authors:
 - N Kaynia
-- NX Fang
+- admin
 - MC Boyce
 date: '2024-01-01'
 publishDate: '2025-09-18T05:41:21.737880Z'

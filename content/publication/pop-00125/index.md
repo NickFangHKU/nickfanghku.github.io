@@ -3,7 +3,7 @@ title: Fully three-dimensional microfabrication with a grayscale polymeric self-
   structure
 authors:
 - C Xia
-- N Fang
+- admin
 date: '2009-01-01'
 publishDate: '2025-09-18T05:41:20.711286Z'
 publication_types:

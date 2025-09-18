@@ -2,7 +2,7 @@
 title: Stiction problems in releasing of 3D microstructures and its solution
 authors:
 - D Wu
-- N Fang
+- admin
 - C Sun
 - X Zhang
 date: '2006-01-01'

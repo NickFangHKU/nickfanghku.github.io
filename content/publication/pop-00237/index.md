@@ -4,7 +4,7 @@ title: Experimental Demonstration of Conjugate Structured Illumination Microscop
 authors:
 - J Zhang
 - R Zhou
-- NX Fang
+- admin
 - W Deng
 - J Zhu
 - S Liu

@@ -3,7 +3,7 @@ title: Multi-beam resin curing system and method for whole-volume additive manuf
 authors:
 - M Shusteff
 - CM Spadaccini
-- N Fang
+- admin
 - RM Panas
 - J Henriksson
 - B Kelly

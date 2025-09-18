@@ -3,7 +3,7 @@ title: Optical silver superlens imaging below the diffraction limit
 authors:
 - H Lee
 - Y Xiong
-- N Fang
+- admin
 - W Srituravanich
 - S Durant
 - M Ambati

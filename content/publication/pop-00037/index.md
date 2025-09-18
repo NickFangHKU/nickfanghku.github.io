@@ -2,7 +2,7 @@
 title: Rapid growth of evanescent wave by a silver superlens
 authors:
 - Z Liu
-- N Fang
+- admin
 - TJ Yen
 - X Zhang
 date: '2003-01-01'

@@ -3,7 +3,7 @@ title: Multiscale structures aggregated by imprinted nanofibers for functional s
 authors:
 - Y Jeong
 - S Kim
-- NX Fang
+- admin
 - S Shin
 - H Choi
 - S Kim

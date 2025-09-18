@@ -1,7 +1,7 @@
 ---
 title: Molecular Scale Imaging with A Smooth Superlens
 authors:
-- N Fang
+- admin
 - P Chaturvedi
 - W Wu
 - VJ Logeeswaran

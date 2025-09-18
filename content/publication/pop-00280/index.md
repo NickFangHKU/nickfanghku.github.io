@@ -4,7 +4,7 @@ title: Investigations on plasmonic modes of noble metal nano-disks using high-re
 authors:
 - A Kumar
 - KH Fung
-- NX Fang
+- admin
 date: '2011-01-01'
 publishDate: '2025-09-18T05:41:21.652928Z'
 publication_types:

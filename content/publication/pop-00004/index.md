@@ -3,7 +3,7 @@ title: Terahertz magnetic response from artificial materials
 authors:
 - TJ Yen
 - WJ Padilla
-- N Fang
+- admin
 - DC Vier
 - DR Smith
 - JB Pendry

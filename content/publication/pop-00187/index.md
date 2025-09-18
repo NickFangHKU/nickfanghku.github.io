@@ -2,7 +2,7 @@
 title: Transformation Optics scheme for two-dimensional materials
 authors:
 - A Kumar
-- N Fang
+- admin
 - KH Fung
 - H Reid
 date: '2014-01-01'

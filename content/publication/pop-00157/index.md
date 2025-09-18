@@ -3,7 +3,7 @@ title: Adhesion force of polymeric three-dimensional microstructures fabricated 
   microstereolithography
 authors:
 - D Wu
-- N Fang
+- admin
 - C Sun
 - X Zhang
 date: '2002-01-01'

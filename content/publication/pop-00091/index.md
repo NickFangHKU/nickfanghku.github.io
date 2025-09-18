@@ -2,7 +2,7 @@
 title: Sub-100 nm lithography using ultrashort wavelength of surface plasmons
 authors:
 - W Srituravanich
-- N Fang
+- admin
 - S Durant
 - M Ambati
 - C Sun

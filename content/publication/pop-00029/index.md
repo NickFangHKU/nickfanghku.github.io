@@ -2,7 +2,7 @@
 title: Surface resonant states and superlensing in acoustic metamaterials
 authors:
 - M Ambati
-- N Fang
+- admin
 - C Sun
 - X Zhang
 date: '2007-01-01'

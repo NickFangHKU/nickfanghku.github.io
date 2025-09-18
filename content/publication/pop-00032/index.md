@@ -4,7 +4,7 @@ title: Rapid multi-material 3D printing with projection micro-stereolithography 
 authors:
 - D Han
 - C Yang
-- NX Fang
+- admin
 - H Lee
 date: '2019-01-01'
 publishDate: '2025-09-18T05:41:20.147463Z'

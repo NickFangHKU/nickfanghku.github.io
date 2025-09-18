@@ -2,7 +2,7 @@
 title: Brownian motion of suspended particles in an anisotropic medium
 authors:
 - YF Hsia
-- N Fang
+- admin
 - HM Widatallah
 - DM Wu
 - XM Lee

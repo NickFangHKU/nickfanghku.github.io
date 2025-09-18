@@ -1,12 +1,12 @@
 ---
 title: Duality Symmetry in Causality Constraints for Enhanced Acoustic Absorption
 authors:
-- S Qu
+- SichaoQu
 - M Yang
 - S Huang
 - S Liu
-- E Dong
-- HY Li
+- ErqianDong
+- HeliosLi
 - P Sheng
 - ID Abrahams
 - ' ...'

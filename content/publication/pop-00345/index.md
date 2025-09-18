@@ -1,7 +1,7 @@
 ---
 title: 'Transformation Acoustics: Virtual Pinholes and Collimators'
 authors:
-- N Fang
+- admin
 - J Xu
 - Y Jing
 date: '2011-01-01'

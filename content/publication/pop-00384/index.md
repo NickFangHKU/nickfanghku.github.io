@@ -2,7 +2,7 @@
 title: Design and Microfabrication of Terahertz Magnetic Metamaterials
 authors:
 - TJ Yen
-- N Fang
+- admin
 - X Zhang
 date: '2003-01-01'
 publishDate: '2025-09-18T05:41:22.210148Z'

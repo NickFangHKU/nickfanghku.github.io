@@ -5,7 +5,7 @@ authors:
 - SH Nam
 - G Han
 - K Kowsari
-- NX Fang
+- admin
 - S Kim
 - YT Cho
 date: '2021-01-01'

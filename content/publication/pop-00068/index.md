@@ -4,7 +4,7 @@ title: Far-field acoustic subwavelength imaging and edge detection based on spat
 authors:
 - C Ma
 - S Kim
-- NX Fang
+- admin
 date: '2019-01-01'
 publishDate: '2025-09-18T05:41:20.365632Z'
 publication_types:

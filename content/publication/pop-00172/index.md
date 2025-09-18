@@ -6,7 +6,7 @@ authors:
 - JY Lu
 - G Ni
 - S Yuan
-- NX Fang
+- admin
 - TJ Zhang
 - ' ...'
 date: '2016-01-01'

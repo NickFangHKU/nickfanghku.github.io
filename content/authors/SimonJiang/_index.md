@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mechanical microstructure design, Cu-Cu direct bonding, mechanical metamaterial
+bio: My research interests include mechanical microstructure design, Cu-Cu direct bonding, mechanical metamaterial.
 
 interests:
 - Mechanical microstructure design
@@ -58,3 +58,5 @@ email: ''
 user_groups:
   - Graduate Students
 ---
+
+My research interests include mechanical microstructure design, Cu-Cu direct bonding, mechanical metamaterial.

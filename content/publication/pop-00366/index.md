@@ -2,7 +2,7 @@
 title: PHYS 319-Imaging of plasmonic modes of nanostructures using high-resolution
   cathodoluminescence spectroscopy
 authors:
-- N Fang
+- admin
 - P Chaturvedi
 - A Kumar
 - KH Hsu

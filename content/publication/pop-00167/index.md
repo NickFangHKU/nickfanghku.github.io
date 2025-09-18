@@ -3,7 +3,7 @@ title: Theory of optical imaging beyond the diffraction limit with a far-field s
 authors:
 - S Durant
 - Z Liu
-- N Fang
+- admin
 - X Zhang
 date: '2006-01-01'
 publishDate: '2025-09-18T05:41:20.966528Z'

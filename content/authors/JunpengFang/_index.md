@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junpeng Fang
+title: Dr. Junpeng Fang
 
 # Full name (for SEO)
 first_name: Junpeng

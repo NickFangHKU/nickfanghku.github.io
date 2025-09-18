@@ -4,7 +4,7 @@ title: A single-wavefunction density functional approach to the plasmonic nanost
 authors:
 - D Jin
 - F Wang
-- N Fang
+- admin
 date: '2014-01-01'
 publishDate: '2025-09-18T05:41:21.930735Z'
 publication_types:

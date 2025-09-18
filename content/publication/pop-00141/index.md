@@ -3,7 +3,7 @@ title: Solid-state electrochemical nanoimprinting of copper
 authors:
 - PL Schultz
 - KH Hsu
-- NX Fang
+- admin
 - PM Ferreira
 date: '2007-01-01'
 publishDate: '2025-09-18T05:41:20.808367Z'

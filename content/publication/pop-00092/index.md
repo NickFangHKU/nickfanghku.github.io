@@ -1,7 +1,7 @@
 ---
 title: Bioinspired metagel with broadband tunable impedance matching
 authors:
-- E Dong
+- ErqianDong
 - Z Song
 - Y Zhang
 - S Ghaffari Mosanenzadeh

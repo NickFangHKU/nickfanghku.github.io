@@ -5,7 +5,7 @@ authors:
 - MM Rahman
 - JY Lu
 - G Ni
-- NX Fang
+- admin
 - TJ Zhang
 - AA Ghaferi
 date: '2015-01-01'

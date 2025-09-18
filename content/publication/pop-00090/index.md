@@ -3,7 +3,7 @@ title: Modeling of charge-mass transport in solid electrolyte-based electrochemi
   nanomanufacturing process
 authors:
 - K Hsu
-- N Fang
+- admin
 - G Panikkar
 - P Ferreira
 date: '2015-01-01'

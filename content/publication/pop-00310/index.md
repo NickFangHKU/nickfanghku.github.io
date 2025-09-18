@@ -2,7 +2,7 @@
 title: 'Soft acoustic metamaterials: From broadband tunable metagels to directional
   emission'
 authors:
-- NX Fang
+- admin
 - C Ma
 - X Li
 date: '2019-01-01'

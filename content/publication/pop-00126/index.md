@@ -2,7 +2,7 @@
 title: Experimental study of transmission enhancement of evanescent waves through
   silver films assisted by surface plasmon excitation
 authors:
-- N Fang
+- admin
 - Z Liu
 - TJ Yen
 - X Zhang

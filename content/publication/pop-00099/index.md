@@ -7,7 +7,7 @@ authors:
 - Y Zhou
 - RW Peng
 - RH Fan
-- NX Fang
+- admin
 - QJ Wang
 - XR Huang
 - ' ...'

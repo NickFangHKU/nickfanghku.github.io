@@ -3,7 +3,7 @@ title: IMECE2006-15408 Enhanced Mass Transport Through Permeable Polymer Microci
   Networks
 authors:
 - C Xia
-- N Fang
+- admin
 date: '2006-01-01'
 publishDate: '2025-09-18T05:41:22.155772Z'
 publication_types:

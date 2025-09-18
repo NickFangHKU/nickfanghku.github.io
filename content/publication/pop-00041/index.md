@@ -2,7 +2,7 @@
 title: A micro methanol fuel cell operating at near room temperature
 authors:
 - TJ Yen
-- N Fang
+- admin
 - X Zhang
 - GQ Lu
 - CY Wang

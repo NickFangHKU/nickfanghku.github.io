@@ -2,7 +2,7 @@
 title: Direct Electrochemical Nanopatterning With Solid Ionic Conductors
 authors:
 - K Hsu
-- N Fang
+- admin
 - P Ferreira
 - P Schultz
 date: '2007-01-01'

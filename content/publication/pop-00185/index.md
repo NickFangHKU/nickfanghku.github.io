@@ -3,7 +3,7 @@ title: Comment on “Submicron imaging with a planar silver lens”[Appl. Phys. 
   84, 4403 (2004)]
 authors:
 - S Durant
-- N Fang
+- admin
 - X Zhang
 date: '2005-01-01'
 publishDate: '2025-09-18T05:41:21.076181Z'

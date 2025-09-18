@@ -1,7 +1,7 @@
 ---
 title: 'NER: Manufacturing of Superionic Active Metallic Nanostructures'
 authors:
-- N Fang
+- admin
 date: '2007-01-01'
 publishDate: '2025-09-18T05:41:22.131655Z'
 publication_types:

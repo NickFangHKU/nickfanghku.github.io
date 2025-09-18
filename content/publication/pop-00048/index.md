@@ -1,7 +1,7 @@
 ---
 title: Regenerating evanescent waves from a silver superlens
 authors:
-- N Fang
+- admin
 - Z Liu
 - TJ Yen
 - X Zhang

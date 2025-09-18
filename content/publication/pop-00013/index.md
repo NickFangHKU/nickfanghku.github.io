@@ -2,7 +2,7 @@
 title: Plasmonic nanolithography
 authors:
 - W Srituravanich
-- N Fang
+- admin
 - C Sun
 - Q Luo
 - X Zhang

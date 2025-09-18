@@ -2,11 +2,11 @@
 title: Ultra-broadband transcranial ultrasound by acoustic phase-only hologram with
   a tungsten metalens
 authors:
-- E Dong
+- ErqianDong
 - T Zhang
 - J Zhang
 - X Su
-- S Qu
+- SichaoQu
 - X Ye
 - Z Gao
 - C Gao

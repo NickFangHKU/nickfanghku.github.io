@@ -56,3 +56,5 @@ email: ''
 user_groups:
   - Graduate Students
 ---
+
+My research interests include viscoelastic material, ultrasound-responsive material and wave behavior.

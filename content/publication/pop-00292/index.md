@@ -1,7 +1,7 @@
 ---
 title: Systems, devices, and methods for kaleidoscopic 3D printing
 authors:
-- N Fang
+- admin
 - J Handler
 - S Kim
 date: '2024-01-01'

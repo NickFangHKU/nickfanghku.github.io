@@ -1,11 +1,11 @@
 ---
 title: Soft Metalens for Broadband Ultrasonic Focusing through Aberration Layers
 authors:
-- E Dong
+- ErqianDong
 - T Zhang
 - J Zhang
 - X Su
-- S Qu
+- SichaoQu
 - X Ye
 - Z Gao
 - C Gao

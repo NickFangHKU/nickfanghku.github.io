@@ -1,7 +1,7 @@
 ---
 title: Ultrasonic metamaterials with negative modulus
 authors:
-- N Fang
+- admin
 - D Xi
 - J Xu
 - M Ambati

@@ -1,7 +1,7 @@
 ---
 title: 'Nanolithography With a NSOM Tip: Part I—Numerical Simulations'
 authors:
-- N Fang
+- admin
 - X Zhang
 - M Xi
 date: '2001-01-01'

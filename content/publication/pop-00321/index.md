@@ -3,7 +3,7 @@ title: Acoustic transmission from a single crystal layer of nonlinear resonators
   a soft elastic matrix
 authors:
 - N Viard
-- N Fang
+- admin
 date: '2015-01-01'
 publishDate: '2025-09-18T05:41:21.870098Z'
 publication_types:

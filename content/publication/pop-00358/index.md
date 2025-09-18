@@ -4,7 +4,7 @@ title: Confocal Microscopy Measurement of Light Squeezed in Sub-wavelength Plasm
 authors:
 - H Ma
 - J Xu
-- NX Fang
+- admin
 date: '2009-01-01'
 publishDate: '2025-09-18T05:41:22.057175Z'
 publication_types:

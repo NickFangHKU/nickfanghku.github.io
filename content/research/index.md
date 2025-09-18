@@ -13,34 +13,39 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 
+      - title: Ionic hydrogel for thermal energy harvesting
+        content: 
+        align: left
         background:
           image:
             filename: slider/ite.JPG
             filters:
               brightness: 0.8
-          position: right
+          position: center
           color: '#666'
-      - title: 
+      - title: Soft metalens for broadband ultrasonic focusing
+        content: 
+        align: left
         background:
           image:
             filename: slider/ultrasound.JPG
             filters:
               brightness: 0.8
           position: center
-          color: '#555'
-      - title: 
+          color: '#666'
+      - title: Acoustic responsive dancing in Codariocalyx motorius
+        content: 
+        align: left
         background:
           image:
             filename: slider/plant.JPG
             filters:
               brightness: 0.8
           position: center
-          color: '#333'
+          color: '#666'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: 600px
-      slide_weight: 1000px
       # is_fullscreen: true
       # Automatically transition through slides?
       loop: true

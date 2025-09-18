@@ -6,7 +6,7 @@ authors:
 - DH Xu
 - Y Zhou
 - RH Fan
-- NX Fang
+- admin
 - QJ Wang
 - XR Huang
 - ' ...'

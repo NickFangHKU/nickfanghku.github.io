@@ -3,8 +3,8 @@ title: 'Acoustic Blackbody Absorption: Transcending Causality Limits through Ins
   Softness'
 authors:
 - M Yang
-- S Qu
-- N Fang
+- SichaoQu
+- admin
 - S Chen
 date: '2024-01-01'
 publishDate: '2025-09-18T05:41:21.725992Z'

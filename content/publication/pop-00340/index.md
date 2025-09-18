@@ -3,7 +3,7 @@ title: Subwavelength imaging of plasmonic nano-bubble cavity probed by Cathodolu
 authors:
 - J Xu
 - H Ma
-- N Fang
+- admin
 date: '2012-01-01'
 publishDate: '2025-09-18T05:41:21.961083Z'
 publication_types:

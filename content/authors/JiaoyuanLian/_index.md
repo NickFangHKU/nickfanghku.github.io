@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiaoyuan Lian
+title: Dr. Jiaoyuan Lian
 
 # Username (this should match the folder name)
 authors:
@@ -58,5 +58,7 @@ email: ''
 user_groups:
   - Researchers
 ---
+
+I have an interdisciplinary background, including three years of experience in acoustic related research, more than five years of experience in interface and microfluidic research, and three years of experience in microelectronic packaging, etc. 
 
 ​Interest-driven, self-motivated person who just does what makes her happy. 

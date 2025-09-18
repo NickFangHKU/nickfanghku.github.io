@@ -1,7 +1,7 @@
 ---
 title: Direct nanoscale patterning of metals using polymer electrolytes
 authors:
-- NX Fang
+- admin
 - PM Ferreira
 - KH HSU
 - PL SCHULTZ

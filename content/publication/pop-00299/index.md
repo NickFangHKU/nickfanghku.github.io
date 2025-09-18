@@ -1,9 +1,9 @@
 ---
 title: Theory of Electromagnetic Wave Scattering and Dispersion in Exponential Materials
 authors:
-- S Qu
-- E Dong
-- N Fang
+- SichaoQu
+- ErqianDong
+- admin
 date: '2024-01-01'
 publishDate: '2025-09-18T05:41:21.755998Z'
 publication_types:

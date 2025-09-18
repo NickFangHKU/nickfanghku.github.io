@@ -1,7 +1,7 @@
 ---
 title: Synthesis and Application of Light Management with Thermochromic Hydrogel Microparticles
 authors:
-- N Fang
+- admin
 - X Li
 - C Liu
 - SP Feng

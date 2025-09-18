@@ -3,7 +3,7 @@ title: Erratum to “Elastic wave propagation in finitely deformed layered mater
   Mech. Phys. Solids 98 (2017) 390-410]
 authors:
 - PI Galich
-- NX Fang
+- admin
 - MC Boyce
 - S Rudykh
 date: '2017-01-01'

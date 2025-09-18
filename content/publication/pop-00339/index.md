@@ -3,7 +3,7 @@ title: Dynamical Actuation and Pattern Formation with Local Swelling in Microgel
 authors:
 - H Lee
 - KH Fung
-- N Fang
+- admin
 date: '2012-01-01'
 publishDate: '2025-09-18T05:41:21.955088Z'
 publication_types:

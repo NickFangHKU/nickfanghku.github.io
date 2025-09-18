@@ -1,7 +1,7 @@
 ---
 title: Sub-diffraction-limited optical imaging with a silver superlens
 authors:
-- N Fang
+- admin
 - H Lee
 - C Sun
 - X Zhang

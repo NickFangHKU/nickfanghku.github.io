@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuchen Li
+title: Dr. Yuchen Li
 
 # Full name (for SEO)
 first_name: Yuchen
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in design of  high-performance ionic thermoelectric materials and devices, uncovering the coupling mechanism of ions reaction dynamics under low temperature inducement, and develop further application in self-powered electronics and temperature monitoring and sensing. 
+bio: I am interested in design of high-performance ionic thermoelectric materials and devices, uncovering the coupling mechanism of ions reaction dynamics under low temperature inducement, and develop further application in self-powered electronics and temperature monitoring and sensing. 
 
 # interests:
 # - Ab-initio Calculation (Density Functional Theory)
@@ -67,6 +67,4 @@ user_groups:
   - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in design of high-performance ionic thermoelectric materials and devices, uncovering the coupling mechanism of ions reaction dynamics under low temperature inducement, and develop further application in self-powered electronics and temperature monitoring and sensing. 

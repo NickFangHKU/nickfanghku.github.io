@@ -3,7 +3,7 @@ title: Formation of fine near-field scanning optical microscopy tips. Part I. By
   and dynamic chemical etching
 authors:
 - A Lazarev
-- N Fang
+- admin
 - Q Luo
 - X Zhang
 date: '2003-01-01'

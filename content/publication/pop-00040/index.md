@@ -4,7 +4,7 @@ title: The metastability of an electrochemically controlled nanoscale machine on
 authors:
 - HR Tseng
 - D Wu
-- NX Fang
+- admin
 - X Zhang
 - JF Stoddart
 date: '2004-01-01'

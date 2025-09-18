@@ -1,11 +1,11 @@
 ---
 title: Reverberation time control by acoustic metamaterials in a small room
 authors:
-- S Qu
+- SichaoQu
 - M Yang
 - Y Xu
 - S Xiao
-- NX Fang
+- admin
 date: '2023-01-01'
 publishDate: '2025-09-18T05:41:20.826390Z'
 publication_types:

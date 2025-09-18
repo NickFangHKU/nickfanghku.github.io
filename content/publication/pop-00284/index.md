@@ -2,7 +2,7 @@
 title: A pathway to subwavelength imaging using a metamaterial superlens
 authors:
 - Z Liu
-- N Fang
+- admin
 - TJ Yen
 - X Zhang
 date: '2003-01-01'

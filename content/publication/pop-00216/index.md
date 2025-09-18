@@ -1,7 +1,7 @@
 ---
 title: From acoustic metamaterials to functional metasurfaces
 authors:
-- NX Fang
+- admin
 - J Xu
 - C Ma
 - N Nemati

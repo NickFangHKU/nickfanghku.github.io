@@ -5,7 +5,7 @@ authors:
 - GG Siu
 - ZP Bai
 - Z Yu
-- N Fang
+- admin
 - FN Shi
 - RC Liu
 - XZ You

@@ -1,7 +1,7 @@
 ---
 title: Pattern transfer by solid state electrochemical stamping
 authors:
-- NX Fang
+- admin
 - PM Ferreira
 - KH Hsu
 - VK Rapaka

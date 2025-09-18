@@ -2,7 +2,7 @@
 title: Characterization of drying techniques for micro-stereolithography
 authors:
 - D Wu
-- N Fang
+- admin
 - C Sun
 - X Zhang
 date: '2001-01-01'

@@ -1,7 +1,7 @@
 ---
 title: Transforming light and sound with metamaterials
 authors:
-- NX Fang
+- admin
 - J Xu
 - KH Fung
 - A Kumar

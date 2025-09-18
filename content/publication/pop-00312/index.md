@@ -2,7 +2,7 @@
 title: Far-field acoustic subwavelength imaging and edge detection
 authors:
 - C Ma
-- NX Fang
+- admin
 date: '2019-01-01'
 publishDate: '2025-09-18T05:41:21.827675Z'
 publication_types:

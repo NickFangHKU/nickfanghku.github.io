@@ -2,7 +2,7 @@
 title: Artificial plasmonic metamaterial fabricated by micro-stereolithography
 authors:
 - D Wu
-- N Fang
+- admin
 - C Sun
 - X Zhang
 - WJ Padilla

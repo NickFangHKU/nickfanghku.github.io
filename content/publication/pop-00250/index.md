@@ -5,7 +5,7 @@ authors:
 - BA Cola
 - H Daiguji
 - C Dames
-- N Fang
+- admin
 - K Fushinobu
 - S Inoue
 - G Kikugawa

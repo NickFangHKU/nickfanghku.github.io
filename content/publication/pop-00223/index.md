@@ -2,7 +2,7 @@
 title: Metric for Quantifying Switching Variability in Resistive Switching Devices
 authors:
 - ZJ Tan
-- NX Fang
+- admin
 date: '2019-01-01'
 publishDate: '2025-09-18T05:41:21.307282Z'
 publication_types:

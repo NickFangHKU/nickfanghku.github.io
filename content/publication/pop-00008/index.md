@@ -2,7 +2,7 @@
 title: Projection micro-stereolithography using digital micro-mirror dynamic mask
 authors:
 - C Sun
-- N Fang
+- admin
 - DM Wu
 - X Zhang
 date: '2005-01-01'

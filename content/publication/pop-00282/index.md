@@ -3,7 +3,7 @@ title: Optical superlens
 authors:
 - X Zhang
 - M Ambati
-- N Fang
+- admin
 - H Lee
 - Z Liu
 - C Sun

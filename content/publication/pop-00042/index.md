@@ -2,7 +2,7 @@
 title: Magnetoactive acoustic metamaterials
 authors:
 - K Yu
-- NX Fang
+- admin
 - G Huang
 - Q Wang
 date: '2018-01-01'

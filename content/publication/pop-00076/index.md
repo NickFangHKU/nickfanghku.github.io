@@ -1,11 +1,11 @@
 ---
 title: Underwater acoustic metamaterials
 authors:
-- E Dong
+- ErqianDong
 - P Cao
 - J Zhang
 - S Zhang
-- NX Fang
+- admin
 - Y Zhang
 date: '2023-01-01'
 publishDate: '2025-09-18T05:41:20.413798Z'

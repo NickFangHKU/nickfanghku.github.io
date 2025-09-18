@@ -68,3 +68,4 @@ user_groups:
   - Graduate Students
 ---
 
+My research interests focus on the interaction between 2D perovskite and surface acoustic waves to understand the optical properties under external fields and then achieve optical modulations for applications, like tunable light sources.

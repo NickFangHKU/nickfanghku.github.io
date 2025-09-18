@@ -1,7 +1,7 @@
 ---
 title: Diffusion-limited photopolymerization in scanning micro-stereolithography
 authors:
-- N Fang
+- admin
 - C Sun
 - X Zhang
 date: '2004-01-01'

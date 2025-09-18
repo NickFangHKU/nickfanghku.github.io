@@ -2,7 +2,7 @@
 title: Plasmonic lithography
 authors:
 - W Srituravanich
-- N Fang
+- admin
 - C Sun
 - S Durant
 - M Ambati

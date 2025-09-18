@@ -2,7 +2,7 @@
 title: Terahertz plasmonic high pass filter
 authors:
 - D Wu
-- N Fang
+- admin
 - C Sun
 - X Zhang
 - WJ Padilla

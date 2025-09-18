@@ -2,7 +2,7 @@
 title: Method of forming an array of high aspect ratio semiconductor nanostructures
 authors:
 - X Li
-- NX Fang
+- admin
 - PM Ferreira
 - W Chern
 - IS Chun

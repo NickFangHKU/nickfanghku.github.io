@@ -3,7 +3,7 @@ title: 'Transformation acoustics: virtual pinholes and collimators'
 authors:
 - J Xu
 - Y Jing
-- NX Fang
+- admin
 date: '2012-01-01'
 publishDate: '2025-09-18T05:41:21.949095Z'
 publication_types:

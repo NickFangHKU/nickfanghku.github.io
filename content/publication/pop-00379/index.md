@@ -2,7 +2,7 @@
 title: Sub-100 nm periodic nanodot arrays using plasmonic lithography
 authors:
 - W Srituravanich
-- N Fang
+- admin
 - C Sun
 - X Zhang
 date: '2004-01-01'

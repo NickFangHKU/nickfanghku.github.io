@@ -2,7 +2,7 @@
 title: Symmetric and antisymmetric modes of electromagnetic resonators
 authors:
 - Y Liu
-- N Fang
+- admin
 - D Wu
 - C Sun
 - X Zhang

@@ -4,7 +4,7 @@ title: 'Electron-photon scattering mediated by localized plasmons: A quantitativ
 authors:
 - KH Fung
 - A Kumar
-- NX Fang
+- admin
 date: '2014-01-01'
 publishDate: '2025-09-18T05:41:20.772056Z'
 publication_types:
