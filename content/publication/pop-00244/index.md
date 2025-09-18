@@ -1,0 +1,17 @@
+---
+title: Multiscale structures aggregated by imprinted nanofibers for functional surfaces
+authors:
+- Y Jeong
+- S Kim
+- NX Fang
+- S Shin
+- H Choi
+- S Kim
+- S Kwon
+- YT Cho
+date: '2018-01-01'
+publishDate: '2025-09-18T04:29:52.419354Z'
+publication_types:
+- article-journal
+publication: '*Journal of Visualized Experiments: JoVE*'
+---
