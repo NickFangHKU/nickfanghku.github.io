@@ -18,24 +18,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on medical ultrasound, specifically robotic ultrasound imaging (including intercostal approaches) and ultrasound neuromodulation (particularly transcranial applications).
 
 interests:
-- Ab-initio Calculation (Density Functional Theory)
-- Atomistic Modeling
-- Light-Matter Interaction (Material Electromagnetic, Thermal Responses)
-- Quantum Hydrodynamic Theory
-- 2D Material Tight-Binding System
-- Wave Behaviors
+- Robotic Ultrasound Imaging
+- Ultrasound neuromodulation
+- Machine Tool Monitoring and Maintenance
 
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
       institution: The University of Hong Kong
-      year: 2027 (expected)
-    - course: B.S. in Mechanical Engineering
-      institution: Beijing Institute of Technology
-      year: 2023
+      year: 2029 (expected)
+    - course: M.Eng. in Mechanical Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2025
+    - course: B.Eng. in Mechanical Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:heliosynl@connect.hku.hk'
-  - icon: globe
-    icon_pack: fas
-    link: https://heliosynl.github.io/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=ht5Ifj4AAAAJ&hl=en
+    link: 'mailto:jinyihan1001@connect.hku.hk'
   - icon: github
     icon_pack: fab
-    link: https://github.com/heliosynl
+    link: https://github.com/Richardo1001
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +63,6 @@ user_groups:
   - Graduate Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My work advances medical ultrasound technologies for diagnostic and therapeutic applications. I develop robotic platforms to enhance ultrasound imaging, addressing challenges in complex anatomies like intercostal scanning. Concurrently, I investigate ultrasound neuromodulation mechanisms, focusing on transcranial stimulation for non-invasive neurological therapies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Recently, I engineered a Portable Low-Intensity Therapeutic Ultrasound System (LITUS) integrating metalens technology for precision beam focusing. I am currently characterizing this system and exploring its diverse therapeutic applications, with emphasis on targeted neuromodulation scenarios.

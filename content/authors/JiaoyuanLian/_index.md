@@ -18,24 +18,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have an interdisciplinary background, including three years of experience in acoustic related research, more than five years of experience in interface and microfluidic research, and three years of experience in microelectronic packaging, etc. 
 
 interests:
-- Ab-initio Calculation (Density Functional Theory)
-- Atomistic Modeling
-- Light-Matter Interaction (Material Electromagnetic, Thermal Responses)
-- Quantum Hydrodynamic Theory
-- 2D Material Strongly-Correlated System
-- Wave Behaviors
+- Nature inspired mechnisms
+- Acoustics
+- Microfluidics enabled engineering
+- Soft and smart manufacturing
 
 education:
   courses:
-    - course: Ph.D. in Mechanical Engineering
-      institution: The University of Hong Kong
-      year: 2027 (expected)
-    - course: B.S. in Mechanical Engineering
-      institution: Beijing Institute of Technology
-      year: 2023
+    - course: Ph.D. in Engineering Thermophysics
+      institution: Zhejiang university
+    - course: B.S. and M.S. in Chemical engineering mechanics and Chemistry engineering
+      institution: Tianjin University
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,13 +40,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:heliosynl@connect.hku.hk'
+    link: 'mailto:jylian@hku.hk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=ht5Ifj4AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/heliosynl
+    link: https://scholar.google.com/citations?user=imaPTcUAAAAJ&hl=zh-CN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +59,4 @@ user_groups:
   - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+​Interest-driven, self-motivated person who just does what makes her happy. 

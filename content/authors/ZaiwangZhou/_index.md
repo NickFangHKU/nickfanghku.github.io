@@ -21,16 +21,28 @@ organizations:
 bio: PhD student in mechanical engineering with three years of experience in medical image processing, robotic surgery, and image-guided therapy, focused on enhancing surgical precision and patient outcomes. Currently developing ultrasound technology for clinical applications, with a commitment to advancing healthcare through innovation and translational research.
 
 interests:
-- Ultrasound, medical robotics, medical image processing, computer vision
+- Ultrasound
+- Medical Robotics
+- Medical Image Processing
+- Computer Vision
 
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
       institution: The University of Hong Kong
-      year: 2027 (expected)
-    - course: B.S. in Mechanical Engineering
-      institution: Beijing Institute of Technology
-      year: 2023
+      year: 2029 (expected)
+    - course: M.Sc. in Biomedical Engineering
+      institution: University of Heidelberg
+      year: 2021
+    - course: M.Sc. in Biophotonics
+      institution: National Yang Ming Chiao Tung University
+      year: 2019
+    - course: B.S. in Biophotonics and Nano Science
+      institution: National Yang Ming Chiao Tung University
+      year: 2018
+    - course: B.S. in Life Sciences
+      institution: National Yang Ming Chiao Tung University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
